@@ -12,6 +12,7 @@
 </template>
 
 <script setup>
+const data = {};
 defineProps({
   title: {
     type: String,
